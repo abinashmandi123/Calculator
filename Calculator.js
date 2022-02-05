@@ -28,9 +28,6 @@ switch(opt){
     case 3:
         result=a*b;
         break;
-    case 4:
-        result=a/b;
-        break;
 }
 
 console.log(result);
